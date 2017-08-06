@@ -5,11 +5,6 @@ body {
 	text-align: center;
 	margin: 0 auto;
 	padding: 100px;
-}
-
-header
-nav
-footer {
 	width: 960px;
 }
 
@@ -68,10 +63,11 @@ nav {
 #aside {
 	background-color: #ebebeb;
 	color: #777;
-	/*padding: 115px 190px 115px 190px;*/
+	padding: 100px;
 	float: left;
 	margin-bottom: 20px;
-	width: 495px;
+	width: 240px;
+	height: 52px;
 }
 
 footer {
